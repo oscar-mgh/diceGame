@@ -11,31 +11,41 @@
 }
 
 body {
-  background-color: #393E46;
+  background-color: #29323b;
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
+  font-family: 'Kaushan Script';
+  text-shadow: 6px 10px #151d27;
+  font-size: 7rem;
+  color: #70c6ff;
 }
 
 p {
-  font-size: 2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  font-size: 2.5rem;
+  color: white;
+  font-family: 'Oleo Script';
 }
 
-img {
-  width: 80%;
+button {
+  background-color: #181f3b;
+  color: white;
+  border: solid 4px #181f3b;
+  border-radius: 6px;
+  padding: 11px;
+  font-size: 1.5rem;
+  font-family: 'Oleo Script';
+  margin: 0 20px 50px 20px;
+  width: 120px;
+  position: relative;
+  bottom: 130px;
 }
 
 footer {
   margin-top: 5%;
-  color: #EEEEEE;
+  color: #eeeeee8f;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Kaushan Script';
 
 }
